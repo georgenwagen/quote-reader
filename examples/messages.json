@@ -1,0 +1,9 @@
+[
+	{"segments": [
+		{"type": "repeating", "text": "this repeats", "delimiter": "-"},
+		{"type": "static", "text": ", but not for long!"}
+	]},
+	{"segments": [
+		{"type": "static", "text": "This is just some text that has no repetitions" }
+	]}
+]
