@@ -1,9 +1,0 @@
-[
-	{"segments": [
-		{"type": "repeating", "text": "digi", "delimiter": "-"},
-		{"type": "static", "text": " hei!"}
-	]},
-	{"segments": [
-		{"type": "static", "text": "Georg: ma pidin masenduse suure eine hessis üksinda ära sööma samal ajal kui vasakust kõrvast tuli yogurt male affirmations ja paremast 2x kiirusel mongoolia kõrilaulmine" }
-	]}
-]
