@@ -1,3 +1,3 @@
 /target
-messages.json
-!/src/messages.json
+*.json
+!/examples/messages.json
